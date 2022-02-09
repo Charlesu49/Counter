@@ -1,0 +1,1 @@
+This counter project presents the user with three buttons- to increase the counter, decrease the counter or reset the counter to 0. The count is also displayed in a variety of colours depending on its value being greater than or less than 0. Charlesu49 9th Feb. 2022
